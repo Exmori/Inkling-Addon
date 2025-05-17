@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "name": "Inkling origin",
+        "id": "inklingorigin",
+        "pack_format": 15,
+        "version": "1.0.0",
+        "authors": [
+            "Exmori"
+        ],
+        "description": "An addon for Defile mod by Doctor4t that adds the Inkling origin to the game.",
+        "license": "MIT"
+    }
+}
