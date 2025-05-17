@@ -1,0 +1,20 @@
+{
+    "name": "Inkling",
+    "description": "A mysterious being born from ink.",
+    "powers": [
+        "inkling:inkmorphosis",
+        "inkling:inkmorphosis_toggle",
+        "inkling:morph_disabled",
+        "inkling:armorlimit",
+        "inkling:health",
+        "inkling:weakness",
+        "inkling:movement_speed",
+        "inkling:modify_size"
+    ],
+    "icon": {
+        "item": "minecraft:black_dye",
+        "amount": 1
+    },
+    "order": 20,
+    "impact": 3
+}

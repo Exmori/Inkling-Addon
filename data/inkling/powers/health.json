@@ -1,0 +1,13 @@
+{
+    "name": "Easy to splash",
+    "description": "Ink does not offer the same amount of vitality as organic compounds. Therefore, you only have 7 hearts worth of HP.",
+    "loading_priority": 3,
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "addition",
+        "value": -6,
+        "name": "Max health increase"
+    },
+    "update_health": true
+}

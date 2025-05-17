@@ -1,0 +1,26 @@
+{
+    "name": "Unstable Body",
+    "description": "Due to your body being made of ink, you can only support the weight of up to iron armor.",
+    "loading_priority": 2,
+    "type": "origins:restrict_armor",
+    "head": {
+        "type": "origins:armor_value",
+        "comparison": ">",
+        "compare_to": 2
+    },
+    "chest": {
+        "type": "origins:armor_value",
+        "comparison": ">",
+        "compare_to": 6
+    },
+    "legs": {
+        "type": "origins:armor_value",
+        "comparison": ">",
+        "compare_to": 5
+    },
+    "feet": {
+        "type": "origins:armor_value",
+        "comparison": ">",
+        "compare_to": 3
+    }
+}

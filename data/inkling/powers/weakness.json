@@ -1,0 +1,10 @@
+{
+    "name": "Weak arms",
+    "description": "Due to your liquid body, you are not able to deliver as powerful punches as others.",
+    "loading_priority": 5,
+    "type": "origins:modify_damage_dealt",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": -0.3
+    }
+}

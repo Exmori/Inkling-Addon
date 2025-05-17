@@ -1,0 +1,13 @@
+{
+    "name": "Slow on ground",
+    "description": "Since your body is made of liquid ink, you move slower on solid ground.",
+    "loading_priority": 4,
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.movement_speed",
+        "operation": "addition",
+        "value": -0.02,
+        "name": "Max speed decrease"
+    },
+    "update_health": true
+}

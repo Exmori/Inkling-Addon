@@ -1,0 +1,9 @@
+{
+    "hidden": true,
+    "condition": {
+        "inverted": true,
+        "type": "origins:power_active",
+        "power": "inkling:inkmorphosis_toggle"
+    },
+    "type": "origins:simple"
+}
